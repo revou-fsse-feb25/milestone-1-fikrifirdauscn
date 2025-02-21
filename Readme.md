@@ -18,4 +18,4 @@ HTML
 
 My portfolio website is hosted on [Hosting platform, e.g., Netlify, Vercel, GitHub Pages, etc.] and can be accessed at:
 
-[Link to your deployed website]
+https://revou-fsse-feb25.github.io/milestone-1-fikrifirdauscn/
