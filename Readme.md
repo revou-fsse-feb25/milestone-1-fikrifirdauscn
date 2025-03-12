@@ -19,4 +19,4 @@ CSS
 
 My portfolio website is hosted on [Hosting platform, e.g., Netlify, Vercel, GitHub Pages, etc.] and can be accessed at:
 
-https://revou-fsse-feb25.github.io/milestone-1-fikrifirdauscn/
+https://67d1b9a7a25f9c22869309c0--idyllic-youtiao-a9afdc.netlify.app/
