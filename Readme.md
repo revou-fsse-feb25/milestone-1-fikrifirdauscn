@@ -7,6 +7,7 @@ The purpose of this portfolio is to showcase my most significant work, highlight
 
 ## Tech Stack
 HTML
+CSS
 
 ## Features
 
